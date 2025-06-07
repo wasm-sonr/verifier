@@ -1,4 +1,4 @@
-module github.com/sonr-io/crypto/mpc/verifier
+module verifier
 
 go 1.24.2
 
