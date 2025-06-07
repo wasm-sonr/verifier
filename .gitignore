@@ -1,0 +1,9 @@
+*.wasm
+.DS_Store
+.idea
+*.iml
+target
+Cargo.lock
+node_modules
+dist
+wasm-pack.log
